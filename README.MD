@@ -48,7 +48,6 @@ $ dotnet run
 
 <h3 align="left">Autor</h3>
  <img style="border-radius: 50%;" src="./readme_assets/autor.jpeg" width="100px;" alt=""/>
- <br />
  <sub>
     <b>Rafael Couto Silva</b>
 </sub>
