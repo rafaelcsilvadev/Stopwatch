@@ -51,7 +51,7 @@ $ dotnet run
  <br />
  <sub>
     <b>Rafael Couto Silva</b>
-<sub>
+</sub>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafa-couto/)](https://www.linkedin.com/in/rafa-couto/) 
