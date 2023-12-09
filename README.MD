@@ -3,17 +3,16 @@
 
 <h3>Conteúdo</h3>
 <p align="center">
-    <a>Sobre</a> •
-    <a>O que precisa para baixar?</a> •
-    <a>Como baixar?</a> •
-    <a>Como rodar?</a> •
+    <a href="#pre-requisitos">Pré-requisitos</a> •
+    <a href="#tecnologias">Tecnologias</a> •
+    <a href="#autor">Autor</a> •
 </p>
 
 <h4 align="center"> 
 	🚀 Stopwatch 🚀 Em evolução...  🚀
 </h4>
 
-<h3 align="left">Pré-requisitos</h3>
+<h3 align="left" id="pre-requisitos">Pré-requisitos</h3>
 <ul>
     <li>
         <a href="https://git-scm.com/">Git</a>
@@ -37,7 +36,7 @@ $ dotnet restore
 $ dotnet run
 ```
 
-<h3 align="left">🛠 Tecnologias</h3>
+<h3 align="left" id="tecnologias">🛠 Tecnologias</h3>
 <ul>
     <li>
         <a href="https://git-scm.com/">Git</a>
