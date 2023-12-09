@@ -47,10 +47,9 @@ $ dotnet run
 </ul>
 
 <h3 align="left">Autor</h3>
- <img style="border-radius: 50%;" src="./readme_assets/autor.jpeg" width="100px;" alt=""/>
- <sub>
-    <b>Rafael Couto Silva</b>
-</sub>
+<img src="./readme_assets/autor.jpeg" width="100px;"/>
+<b>Rafael Couto Silva</b>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafa-couto/)](https://www.linkedin.com/in/rafa-couto/) 
